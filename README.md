@@ -20,9 +20,16 @@ lv1.1双层换行有效；井号标题无效，需在井号后加入空格
 lv1.2疑似所有前缀符号都需加空格
 
 
+lv1.3先这样吧判断一下高亮是什么然后，吃完饭再建设链接和整理一下思绪（突然的心血来潮。。
+
 # 目录
 [记录小笔记](https://github.com/UNBAILANLINCH/-?tab=readme-ov-file#%E8%AE%B0%E5%BD%95%E5%B0%8F%E7%AC%94%E8%AE%B0)
-[资源]()
+
+
+[资源](https://github.com/UNBAILANLINCH/-?tab=readme-ov-file#%E8%B5%84%E6%BA%90)
+
+
+
 
 
 
@@ -53,13 +60,34 @@ lv1.2疑似所有前缀符号都需加空格
 换行：两次enter
 
 
-超链接：中括号内加显示的文字，小括号内加链接地址
-[目录]()
+高亮：看不出是·？·还是'？'试试看
+
+
+超链接：中括号内加显示的文字，小括号内加链接地址（如下）
+
+
+[目录](https://github.com/UNBAILANLINCH/-?tab=readme-ov-file#%E7%9B%AE%E5%BD%95)
 
 ### 资源
 语言
+
+
+[python,但实际现在已经忘记了当时怎么会star的](https://github.com/python/cpython)
+
+
+[c,但实际现在已经忘记了当时怎么会star的](https://github.com/fffaraz/awesome-cpp)
+
+
+
 技术
+
+
+[爬虫](https://github.com/ssssssss-team/spider-flow)
+
+
 游戏
+
+
 ai
 
 
